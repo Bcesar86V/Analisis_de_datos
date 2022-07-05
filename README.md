@@ -4,7 +4,6 @@
 
 Repositorio analisis de datos 
 #Trabajo laboratorio
-#Realizado por: Cesar Boada
 
 #Creando data frame
 Vivienda<-read.csv("../Escritorio/Artículos/Viviendas.csv", sep=",")
